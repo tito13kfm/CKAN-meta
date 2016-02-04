@@ -21,7 +21,7 @@
             "min_version": "1:beta-05-2"
         },
         {
-            "name": "RSSTextures"
+            "name": "RSSTextures4096"
         }
     ],
     "recommends": [
